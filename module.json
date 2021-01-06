@@ -9,7 +9,7 @@
     "packs": [
     {
       "label": "Zachros for PF2e",
-      "entity": "Item",
+      "entity": "Macro",
       "name": "zachros-for-pf2e",
       "path": "./packs/zachros-for-pf2e",
       "system": "pf2e",
