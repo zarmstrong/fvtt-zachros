@@ -1,0 +1,30 @@
+{
+  "name": "fvtt-zachros",
+  "title": "Zachros (Zach's Macros)",
+  "description": "A collection of macros that wrote, contributed to or can't live without.",
+  "author": "slate",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.6",
+  "compatibleCoreVersion": "0.7.9",
+    "packs": [
+    {
+      "label": "Zachros for PF2e",
+      "entity": "Item",
+      "name": "zachros-for-pf2e",
+      "path": "./packs/zachros-for-pf2e",
+      "system": "pf2e",
+      "package": "fvtt-zachros"
+    }
+  ],
+  "esmodules": [],
+  "styles": [],
+  "socket": false,
+  "systems": ["pf2e"],
+  "url": "https://github.com/zarmstrong/hlo-importer",
+  "manifest": "https://raw.githubusercontent.com/zarmstrong/fvtt-zachros/main/module.json",
+  "download": "https://github.com/zarmstrong/fvtt-zachros/releases/download/fvtt-zachros-1.0.0/hlo-importer-1.0.0.zip",
+  "license": "MIT",
+  "readme": "https://github.com/zarmstrong/fvtt-zachros",
+  "bugs": "https://github.com/zarmstrong/fvtt-zachros/issues",
+  "changelog": "https://github.com/zarmstrong/fvtt-zachros/blob/main/CHANGELOG.md"  
+}
