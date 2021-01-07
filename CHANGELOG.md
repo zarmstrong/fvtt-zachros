@@ -1,3 +1,11 @@
+## 1.0.4 (Jan 6, 2021)
+
+* Update some icons
+
+## 1.0.3 (Jan 6, 2021)
+
+* Fix bad release
+
 ## 1.0.2 (Jan 6, 2021)
 
 * Initial Release
