@@ -11,7 +11,7 @@
       "label": "Zachros for PF2e",
       "entity": "Macro",
       "name": "zachros-for-pf2e",
-      "path": "./packs/zachros-for-pf2e",
+      "path": "./packs/zachros-for-pf2e.db",
       "system": "pf2e",
       "package": "zachros"
     }
