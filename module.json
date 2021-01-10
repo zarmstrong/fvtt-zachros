@@ -20,7 +20,7 @@
   "styles": [],
   "socket": false,
   "systems": ["pf2e"],
-  "url": "https://github.com/zarmstrong/zachros",
+  "url": "https://github.com/zarmstrong/fvtt-zachros",
   "manifest": "https://raw.githubusercontent.com/zarmstrong/fvtt-zachros/main/module.json",
   "download": "https://github.com/zarmstrong/fvtt-zachros/releases/download/zachros-1.0.5/zachros-1.0.5.zip",
   "license": "MIT",

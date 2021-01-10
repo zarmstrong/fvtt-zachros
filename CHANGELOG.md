@@ -1,3 +1,7 @@
+## 1.0.6 (Jan 10, 2021)
+
+* fix bad link to project in module.json
+
 ## 1.0.5 (Jan 8, 2021)
 
 * fix treat wounds/battle med to show exact numbers healed instead of the roll value. this way, if the wrong token(s) are healed, the right amount of HP can be removed/restored
