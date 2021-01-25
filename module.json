@@ -3,7 +3,7 @@
   "title": "Zachros (Zach's Macros)",
   "description": "A collection of macros that I wrote, contributed to or can't live without.",
   "author": "slate",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "minimumCoreVersion": "0.7.6",
   "compatibleCoreVersion": "0.7.9",
     "packs": [
@@ -22,7 +22,7 @@
   "systems": ["pf2e"],
   "url": "https://github.com/zarmstrong/fvtt-zachros",
   "manifest": "https://raw.githubusercontent.com/zarmstrong/fvtt-zachros/main/module.json",
-  "download": "https://github.com/zarmstrong/fvtt-zachros/releases/download/zachros-1.1.0/zachros-1.1.0.zip",
+  "download": "https://github.com/zarmstrong/fvtt-zachros/releases/download/zachros-1.1.1/zachros-1.1.1.zip",
   "license": "MIT",
   "readme": "https://github.com/zarmstrong/fvtt-zachros",
   "bugs": "https://github.com/zarmstrong/fvtt-zachros/issues",
