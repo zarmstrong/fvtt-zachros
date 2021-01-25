@@ -1,3 +1,8 @@
+## 1.1.0 (Jan 24, 2021)
+
+* add macro for identifying items
+* fix some typos in readme
+
 ## 1.0.6 (Jan 10, 2021)
 
 * fix bad link to project in module.json
