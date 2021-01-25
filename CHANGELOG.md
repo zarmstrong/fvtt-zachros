@@ -1,3 +1,7 @@
+## 1.1.1 (Jan 24, 2021)
+
+* fix typos in module.json
+
 ## 1.1.0 (Jan 24, 2021)
 
 * add macro for identifying items
