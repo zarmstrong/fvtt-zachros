@@ -1,3 +1,5 @@
+[![ko-fi](https://img.shields.io/badge/-buy%20me%20a%20coffee-%23FF5E5B)](https://ko-fi.com/slate) [![patreon](https://img.shields.io/badge/-support%20me%20on%20patreon-%235C5C5C)](https://patreon.com/slatesfoundrystuff) ![GitHub all releases](https://img.shields.io/github/downloads/zarmstrong/fvtt-zachros/total?style=plastic) ![GitHub](https://img.shields.io/github/license/zarmstrong/fvtt-zachros?style=plastic)
+
 # Zachros (Zach's Macros)
 A collection of macros that I wrote, contributed to or found elsewhere and can't live without.
 
