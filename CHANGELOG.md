@@ -1,3 +1,7 @@
+## 1.1.2 (Mar 01, 2021)
+
+* add support for bug reporter module
+
 ## 1.1.1 (Jan 24, 2021)
 
 * fix typos in module.json

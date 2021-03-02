@@ -26,5 +26,6 @@
   "license": "MIT",
   "readme": "https://github.com/zarmstrong/fvtt-zachros",
   "bugs": "https://github.com/zarmstrong/fvtt-zachros/issues",
+  "allowBugReporter": true,
   "changelog": "https://github.com/zarmstrong/fvtt-zachros/blob/main/CHANGELOG.md"  
 }
