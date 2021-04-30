@@ -16,6 +16,9 @@
       "package": "zachros"
     }
   ],
+  "dependencies": [
+      { "name": "pf2e", "type": "system" }
+  ],
   "esmodules": [],
   "styles": [],
   "socket": false,

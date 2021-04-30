@@ -1,3 +1,11 @@
+## 1.1.4 (Apr 30, 2021)
+
+* prevent module from being loaded in other game systems (thanks wildj79)
+
+## 1.1.3 (Apr 28, 2021)
+
+* add macro to reset hero points to 1 for selected tokens
+
 ## 1.1.2 (Mar 01, 2021)
 
 * add support for bug reporter module
