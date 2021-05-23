@@ -1,3 +1,7 @@
+## 1.2.0 (May 22, 2021)
+
+* added macro for: inspire courage, inspire defense, inspire heroics (all forms)
+
 ## 1.1.4 (Apr 30, 2021)
 
 * prevent module from being loaded in other game systems (thanks wildj79)
